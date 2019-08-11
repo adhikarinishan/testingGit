@@ -1,3 +1,6 @@
 text
-file 
+
 uploading to git
+
+
+changes in 2nd commit of same file
